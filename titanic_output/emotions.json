@@ -1,0 +1,94 @@
+[
+    {
+        "timestamp": "0s",
+        "emotion": "Despair"
+    },
+    {
+        "timestamp": "5s",
+        "emotion": "Somberness"
+    },
+    {
+        "timestamp": "10s",
+        "emotion": "Pain"
+    },
+    {
+        "timestamp": "15s",
+        "emotion": "Sorrow"
+    },
+    {
+        "timestamp": "20s",
+        "emotion": "Resignation"
+    },
+    {
+        "timestamp": "25s",
+        "emotion": "Desperation"
+    },
+    {
+        "timestamp": "30s",
+        "emotion": "Helplessness"
+    },
+    {
+        "timestamp": "35s",
+        "emotion": "Foreboding"
+    },
+    {
+        "timestamp": "40s",
+        "emotion": "Despair"
+    },
+    {
+        "timestamp": "45s",
+        "emotion": "Isolation"
+    },
+    {
+        "timestamp": "50s",
+        "emotion": "Grief"
+    },
+    {
+        "timestamp": "55s",
+        "emotion": "Loss"
+    },
+    {
+        "timestamp": "60s",
+        "emotion": "Mourning"
+    },
+    {
+        "timestamp": "65s",
+        "emotion": "Sorrow"
+    },
+    {
+        "timestamp": "70s",
+        "emotion": "Desperation"
+    },
+    {
+        "timestamp": "75s",
+        "emotion": "Anguish"
+    },
+    {
+        "timestamp": "80s",
+        "emotion": "Concern"
+    },
+    {
+        "timestamp": "85s",
+        "emotion": "Resignation"
+    },
+    {
+        "timestamp": "90s",
+        "emotion": "Distress"
+    },
+    {
+        "timestamp": "95s",
+        "emotion": "Anguish"
+    },
+    {
+        "timestamp": "100s",
+        "emotion": "Heartbreak"
+    },
+    {
+        "timestamp": "105s",
+        "emotion": "Grief"
+    },
+    {
+        "timestamp": "110s",
+        "emotion": "Finality"
+    }
+]

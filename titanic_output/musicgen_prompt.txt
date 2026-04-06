@@ -1,0 +1,7 @@
+**AI Music Generator Prompt:**
+Produce a melancholic classical piece. Start with quiet grief and despair, intensify to desperate anguish and heartbreak, then fade into a profound, mournful finality. High quality.
+
+**Musical Style, Genre, and Mood Evolution:**
+The musical style is **Cinematic Neo-Classical**, characterized by sparse, emotionally resonant instrumentation focusing on deep strings (cello, viola), melancholic piano, and subtle, sustained pads. The **genre** leans into dark ambient textures for atmospheric depth.
+
+The **mood evolves** from a profound, quiet despair and somber resignation at the beginning, conveyed through slow, sustained notes and sparse chords. The middle section builds in intensity through waves of desperate struggle, foreboding, and deep grief, with more urgent string motifs and swelling dynamics. The end descends into an ultimate, crushing anguish and heartbreak, concluding with a desolate sense of finality, expressed through thinning instrumentation and a lingering, mournful resolution. High quality.
