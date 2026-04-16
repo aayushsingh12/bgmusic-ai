@@ -1,4 +1,4 @@
-# bgmusic-ai
+# bgmusic-AI
 
 **An AI-driven, multimodal background music generator for video clips.**
 
